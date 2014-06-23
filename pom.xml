@@ -13,11 +13,6 @@
     
     <dependencies>
         <dependency>
-            <groupId>eu.novait.utils</groupId>
-            <artifactId>iconlibrary</artifactId>
-            <version>1.0</version>
-        </dependency>
-        <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
             <version>2.4</version>
